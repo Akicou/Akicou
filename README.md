@@ -18,7 +18,7 @@ I'm part of [Nayhein AI](https://nayhein.com), an open research org. Most of my 
 
 ### Projects
 
-| | |
+| Repo | Description |
 |---|---|
 | **[GGUF Forge](https://github.com/Akicou/automaticConversion)** | Web app that automates the full HuggingFace → GGUF pipeline. Download, convert, quantize, upload. Hosted free at [gguforge.com](https://gguforge.com) (Hosted one Temporarily Offline). |
 | **[REAM-MoE](https://github.com/Akicou/ream)** | Generic REAM/REAP expert compression for MoE LLMs. Supports 15+ families — Qwen3, DeepSeek V3, Kimi K2, MiniMax M2, Mixtral and more. |
