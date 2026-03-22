@@ -1,29 +1,42 @@
-# Hey, I'm Isaac (Akicou) 👋
+<div align="center">
 
-App Dev apprentice by day, ML tinkerer by night. I work at the intersection of LLM compression, GGUF tooling, and open-source infrastructure — mostly on consumer hardware.
+# Isaac · Akicou
 
-Part of [Nayhein AI](https://nayhein.com) — an open research org.
+**App Dev Apprentice · ML Tinkerer · Open Source**
 
----
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Akicou-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/Akicou)
+[![Nayhein](https://img.shields.io/badge/Nayhein_AI-Open_Research-6366f1?style=flat-square)](https://nayhein.com)
+[![GGUForge](https://img.shields.io/badge/GGUForge-gguforge.com-10b981?style=flat-square)](https://gguforge.com)
 
-## Projects
-
-**[GGUF Forge](https://github.com/Akicou/automaticConversion)** — FastAPI web app that automates HuggingFace model → GGUF conversion. Handles the full pipeline: download, FP16 convert, quantize, upload. Self-hostable or use the free hosted version at [gguforge.com](https://gguforge.com).
-
-**[REAM-MoE](https://github.com/Akicou/ream)** — Generic implementation of the REAM/REAP expert compression algorithm for MoE LLMs. Supports 15+ model families (Qwen3, DeepSeek V3, Kimi K2, MiniMax M2, Mixtral, ...).
-
-**[rl-coding-agent](https://github.com/Akicou/rl-coding-agent)** — Infinite RL loop that trains an open-source LLM into a coding agent. Self-generating problems, multi-language sandboxed execution, zero human labels.
-
-**[hf-local-hub](https://github.com/Akicou/hf-local-hub)** — Local HuggingFace Hub alternative, written in Go.
+</div>
 
 ---
 
-## HuggingFace
-
-I publish REAP/REAM compressed MoE models and GGUF quantizations over at **[huggingface.co/Akicou](https://huggingface.co/Akicou)** — 29 models and counting, including compressed variants of MiniMax M2, Qwen3 235B, Solar 69B, and more.
+I'm part of [Nayhein AI](https://nayhein.com), an open research org. Most of my work is around LLM compression, quantization pipelines, and the tooling that makes running large models on consumer hardware less painful.
 
 ---
 
-## Stack
+### Projects
 
-Python · Go · FastAPI · llama.cpp · PyTorch · Docker · SQL
+| | |
+|---|---|
+| **[GGUF Forge](https://github.com/Akicou/automaticConversion)** | Web app that automates the full HuggingFace → GGUF pipeline. Download, convert, quantize, upload. Hosted free at [gguforge.com](https://gguforge.com) (Hosted one Temporarily Offline). |
+| **[REAM-MoE](https://github.com/Akicou/ream)** | Generic REAM/REAP expert compression for MoE LLMs. Supports 15+ families — Qwen3, DeepSeek V3, Kimi K2, MiniMax M2, Mixtral and more. |
+| **[rl-coding-agent](https://github.com/Akicou/rl-coding-agent)** | RL loop that trains an LLM into a coding agent. Self-generating problems, sandboxed multi-language execution, zero human labels. |
+| **[hf-local-hub](https://github.com/Akicou/hf-local-hub)** | Local HuggingFace Hub alternative written in Go. |
+
+---
+
+### Models & Datasets
+
+29 models on HuggingFace — REAP/REAM compressed MoEs and GGUF quants for models like MiniMax M2, Qwen3 235B, and Solar Open 100B.
+
+→ **[huggingface.co/Akicou](https://huggingface.co/Akicou)**
+
+---
+
+<div align="center">
+
+`Python` · `Go` · `FastAPI` · `llama.cpp` · `PyTorch` · `Docker`
+
+</div>
