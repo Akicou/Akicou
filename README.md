@@ -1,27 +1,20 @@
-<div align="center">
+# Akicou
 
-# Isaac · Akicou
+Student. I tinker with ML and build small things.
 
-**App Dev Apprentice · ML Tinkerer · Open Source**
+Honest note: a lot of my repos are forks I'm learning from, or experiments where an AI helped me write a good chunk of the code. I'll flag the ones that are mostly my own.
 
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Akicou-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/Akicou)
-[![GGUForge](https://img.shields.io/badge/GGUForge-gguforge.com-10b981?style=flat-square)](https://gguforge.com)
+## Things I've actually built
 
-</div>
+- **[ream](https://github.com/Akicou/ream)** — a reimplementation of the REAM algorithm for compressing mixture-of-experts LLMs.
+- **[automaticConversion](https://github.com/Akicou/automaticConversion)** (GGUF Forge) — automates the HuggingFace → GGUF pipeline: download, convert, quantize, upload.
+- **[Nixre](https://github.com/Akicou/Nixre)** — a self-hosted Git forge. Passkeys, pull requests, and an AI that reads your real diff. Runs on your own machine.
+- **[decard](https://github.com/Akicou/decard)** — a pi / Claude agent skill that flattens card-based UI into clean sections.
 
----
+## Elsewhere
 
-### Projects
-
-| Repo | Description |
-|---|---|
-| **[GGUF Forge](https://github.com/Akicou/automaticConversion)** | Web app that automates the full HuggingFace → GGUF pipeline. Download, convert, quantize, upload. Hosted free at [gguforge.com](https://gguforge.com) (Hosted one Temporarily Offline). |
-| **[REAM-MoE](https://github.com/Akicou/ream)** | Generic REAM/REAP expert compression for MoE LLMs. Supports 15+ families — Qwen3, DeepSeek V3, Kimi K2, MiniMax M2, Mixtral and more. |
+[HuggingFace](https://huggingface.co/Akicou) · [nixre.dev](https://nixre.dev)
 
 ---
 
-<div align="center">
-
-`Python` · `Go` · `FastAPI` · `llama.cpp` · `PyTorch` · `Docker`
-
-</div>
+If I'm not on here, I'm over on my own forge. For SWE work, find me at [git.nayhein.com](https://git.nayhein.com).
